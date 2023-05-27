@@ -1,0 +1,16 @@
+*.gcno
+*.gcda
+unit_tests
+*.lib
+*.a
+*.pdf
+*.vscode
+*.o
+*.out
+bootstrap
+test
+*vgcore*
+*.log
+my_sokoban
+map
+level_maker
